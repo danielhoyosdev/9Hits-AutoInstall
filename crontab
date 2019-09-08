@@ -1,0 +1,2 @@
+* * * * * /root/crashdetect.sh
+1,31 * * * * /root/kill.sh
